@@ -1,4 +1,5 @@
 Portfolio Project: COVID-19 Analysis using SQL
+
 This project involves analyzing COVID-19 data from two different datasets - Covid_Death and Covid_Vaccination. These datasets were imported to a Microsoft SQL Server instance and queried using SQL to obtain insights into the spread and impact of COVID-19 on different countries and continents.
 
 Project Files
